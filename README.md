@@ -41,7 +41,7 @@ To run the application locally, ensure you have JDK 21 installed. Then, follow t
 4. Access the application by visiting `http://localhost:8080` in your web browser.
 
 ## TODO: further improvements
-
+- Add UnitTests 
 - Add logging functionality to enhance monitoring and debugging capabilities.
 - Improve error handling to ensure comprehensive coverage and effective resolution of all errors.
 - Consider refactoring pdfService into separate storageService and a Facade to enhance logical organization and better delegation of services.
