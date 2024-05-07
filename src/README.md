@@ -17,6 +17,7 @@ Requirement
 
 - Java Development Kit (JDK) 21: Ensure JDK 21 is installed on your system as the project is configured with Java 21 compatibility.
 - build automation tool: Gradle
+- resources should have a directory named pdfs with empty({}) pdf-metadata.json  file at least.
 
 ## Dependencies
 
